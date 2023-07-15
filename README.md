@@ -11,5 +11,5 @@ Third, the codes showed how we plot the world map and locations of our studied l
 Fourth, the codes showed how we plot the figures of supplementary materials
 
 The other.RDS files achieved relevant data. 
-The raw species and environmental data were not shown here as they are generating another paper. 
-Anyone who want to get those raw data, please contact hehu@niglas.ac.cn. 
+
+The raw species and environmental data for each study were not shown here as they are generating another paper. However, we have shown the summary of data in "diversity_inext2.csv" file. Anyone who want to get those raw data, please contact hehu@niglas.ac.cn. 
