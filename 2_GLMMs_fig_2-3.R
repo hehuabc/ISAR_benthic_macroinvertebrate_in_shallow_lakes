@@ -31,7 +31,7 @@ data2 <-  mutate(data,
                 s_n = log10(Sn),
                 s_pie = log10(Spie),
                 s_error = 1/((s_area_UCI - s_area_LCI)/3.92+1), 
-                # reversal SE for weights
+                # reversal SE for weights, SE = CI/3.92,
                 sn_error = 1/((Sn_UCI - Sn_LCI)/3.92+1), 
                 # reversal SE for weights
                 spie_error = 1/((Spie_UCI - Spie_LCI)/3.92+1), 
